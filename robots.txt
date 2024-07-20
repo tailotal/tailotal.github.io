@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tailotal.github.io/sitemap
+Sitemap: https://tailotal.github.io/app/sitemap
+Sitemap: https://tailotal.github.io/assets/sitemap
+Sitemap: https://tailotal.github.io/css/sitemap
+Sitemap: https://tailotal.github.io/includes/sitemap
+Sitemap: https://tailotal.github.io/item/sitemap
+Sitemap: https://tailotal.github.io/src/sitemap
